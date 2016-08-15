@@ -3155,6 +3155,8 @@
 			#banner {
 				padding: 5em 2em 4.25em 2em ;
 				margin-bottom: -2.5em;
+                background-image: linear-gradient(to top, rgba(83, 64, 94, 0), rgba(46, 49, 65, 0.8)), url("/assets/css/images/phone.jpg");
+				background-size: auto, cover;
 			}
 
 				#banner .logo {
