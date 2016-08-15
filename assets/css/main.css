@@ -1790,6 +1790,12 @@
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 		}
 
+        h2.major1 {
+            padding-bottom: 1em;
+			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+            color: #604878;
+}
+
 	h2 {
 		font-size: 1.2em;
 	}
@@ -3275,13 +3281,13 @@
 	}
 
 	.wrapper {
-		background-color: #2a0d45;
+		background-color: #ffffff;
 		margin: 6.5em 0;
 		position: relative;
 	}
 
 		.wrapper:before, .wrapper:after {
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:#2a0d45' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:#ffffff' /%3E%3C/svg%3E");
 		}
 
 /* RIGHT HERE ALEXIS */
